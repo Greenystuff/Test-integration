@@ -41,14 +41,31 @@ hr:after {
 	top: -13px;
 }
 
+.headerFixed {
+	position: fixed;
+	width: 100%;
+	height: 40px;
+	background-color: lightgreen;
+	z-index: 10;
+	text-align: right;
+}
+
+body {
+	margin: 0;
+}
+
+.iconPanier {
+	background-color: transparent;
+	height: 40px;
+	
+}
+
 .grid-container {
 	display: grid;
 	justify-content: center;
 	align-items: center;
 	column-gap: 20px;
 	grid-template-columns: repeat(9, 1fr);
-
-
 }
 
 .container {
