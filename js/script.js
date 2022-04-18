@@ -43,7 +43,6 @@ function lowAgeBtnClick() {
 }
 
 function middleAgeBtnClick() {
-    //window.scrollTo({top:300,behavior: 'smooth'});
 
     var element = document.getElementById("middleage");
 
@@ -55,7 +54,6 @@ function middleAgeBtnClick() {
 }
 
 function highAgeBtnClick() {
-    //window.scrollTo({top:300,behavior: 'smooth'});
 
     var element = document.getElementById("highage");
 
