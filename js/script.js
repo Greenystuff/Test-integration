@@ -63,3 +63,9 @@ function highAgeBtnClick() {
     element.scrollIntoView({ behavior: "smooth", block: "start", inline: "nearest" });
 
 }
+
+function panierClicked() {
+    var element = document.getElementById("buttonPanier");
+    
+
+}

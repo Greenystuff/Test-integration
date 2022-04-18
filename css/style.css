@@ -56,8 +56,17 @@ body {
 
 .iconPanier {
 	background-color: transparent;
-	height: 40px;
+	height: 30px;
 	
+}
+
+.buttonPanier {
+	border: none;
+	cursor: pointer;
+	overflow: hidden;
+	background-color: transparent;
+	outline: none;
+	background: Transparent no-repeat;
 }
 
 .grid-container {
